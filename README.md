@@ -1,3 +1,3 @@
 # TugasNoteApp
 Dibuat oleh :
-- Moh Aufal Kholqi (3.34.21.0.15)
+- Fajar Ageng Fauzi (3.34.21.0.10)
